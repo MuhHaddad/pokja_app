@@ -1,0 +1,8 @@
+{
+  "name": "POKJA PORTAL",
+  "short_name": "POKJA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
